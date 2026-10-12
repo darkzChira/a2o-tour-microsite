@@ -122,10 +122,26 @@
 		}
 
 		.site-info-spectrogram-label {
+			display: inline-flex;
+			align-items: center;
+			gap: var(--space-xxsmall);
 			color: var(--color-text);
 			font-size: var(--font-size-xsmall);
 			line-height: 1rem;
 			text-align: right;
+
+			.site-info-species-next {
+				display: inline-flex;
+				padding: 0;
+				border: 0;
+				background: none;
+				color: inherit;
+				cursor: pointer;
+
+				sl-icon {
+					font-size: var(--font-size-medium);
+				}
+			}
 		}
 	}
 }

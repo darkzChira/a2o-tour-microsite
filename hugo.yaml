@@ -177,7 +177,7 @@ params:
 
               image: "images/species/Buff-breasted-Paradise-Kingfisher.jpg"
               examples:
-                - url: "https://api.acousticobservatory.org/audio_recordings/491051/media.mp3"
+                - url: "https://api.acousticobservatory.org/audio_recordings/491051/media.mp3?end_offset=1590&start_offset=1560"
             - name: "Wompoo Fruit Dove"
               description: "A large fruit dove that feeds quietly in the canopy. Known for its 'Wompoo!' call."
               image: "images/species/Wompoo-Fruit-Dove.jpg"
@@ -196,7 +196,7 @@ params:
             - name: "Southern Cassowary"
               description: "A tall, flightless rainforest bird that disperses fallen fruit and produces low, resonant mating calls."
               examples:
-                - url: "https://api.acousticobservatory.org/audio_recordings/487381/media.mp3"
+                - url: "https://api.acousticobservatory.org/audio_recordings/487381/media.mp3?end_offset=5820&start_offset=5790"
             - name: "Bar-shouldered Dove"
               description: "A long-tailed dove that feeds on the ground near water and gives a rhythmic, cooing call."
             - name: "Sulphur-crested Cockatoo"
